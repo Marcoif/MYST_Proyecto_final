@@ -1,5 +1,6 @@
+"TRABAJO REALIZADO POR MARCO ANTONIO OCHOA CARDENAS Y RICARDO CARDENAS RAMOS"
 
-# Clasificaciones y condiciones
+# lasificaciones y condiciones
 
 escenarios = ['A', 'B', 'C', 'D']
 

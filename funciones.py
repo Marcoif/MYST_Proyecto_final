@@ -1,3 +1,6 @@
+"TRABAJO REALIZADO POR MARCO ANTONIO OCHOA CARDENAS Y RICARDO CARDENAS RAMOS"
+
+
 # - Librerias -
 
 import entradas as ent

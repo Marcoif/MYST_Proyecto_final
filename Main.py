@@ -1,4 +1,4 @@
-
+"TRABAJO REALIZADO POR MARCO ANTONIO OCHOA CARDENAS Y RICARDO CARDENAS RAMOS"
 
 import visualizaciones as vs
 import funciones as fn
